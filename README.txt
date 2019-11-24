@@ -1,0 +1,1 @@
+firmware version and binary files to upload to ESP8266.
